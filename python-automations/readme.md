@@ -64,8 +64,8 @@ Keyboard Controls:
 ## ⚙️ Setup Instructions
 
 ### 1. Clone the Repository
-git clone https://github.com/<your_username>/Projects.git  
-cd Projects/python-automations  
+git clone https://github.com/trexaki/my-projects.git  
+cd my-projects/python-automations  
 
 ### 2. Install Dependencies
 pip install pandas opencv-python  
